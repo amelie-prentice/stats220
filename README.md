@@ -3,7 +3,7 @@
 
 ## Purpose
 
-The purpose of this project is to create a meme image and gif inspired by a meme I have found online. Though the original purpose was quite simple, I made sure to explore new ideas on my own as well
+The **purpose** of this project is to create a meme image and gif inspired by a meme I have found online. Though the original purpose was quite simple, I made sure to explore new ideas on my own as well.
 
 ## Inspiration
 
@@ -11,7 +11,7 @@ The primary inspiration for the project was this meme:
 
 ![420bc7c96320f1fa6b8031537d3da4b1](https://github.com/amelie-prentice/stats220/assets/163201054/2741e26f-b79f-42aa-9cef-6cc400cf1ebf)
 
-**However**, I had other sources of inspiration as well, especially aesthetics-wise.
+*However*, I had other sources of inspiration as well, especially aesthetics-wise.
 
 ### Further images
 
